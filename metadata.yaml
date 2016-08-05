@@ -1,0 +1,31 @@
+_repo: Autobiography-of-Ma-ka-tai-me-she-kia-kiak-or-Black-Hawk_7097
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Black Hawk, Sauk chief
+    aliases:
+    - Makataimeshekiakiak, Sauk chief
+    - Ma-ka-tai-me-she-kia-kiak, Sauk chief
+    birthdate: 1767
+    deathdate: 1838
+    gutenberg_agent_id: '2339'
+    url: http://www.gutenberg.org/2009/agents/2339
+    wikipedia: http://en.wikipedia.org/wiki/Black_Hawk_(chief)
+description: ''
+gutenberg_bookshelf: Native America
+gutenberg_issued: '2004-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7097'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Black Hawk War, 1832'
+- !lcsh 'Sauk Indians -- Biography'
+- !lcc 'E011'
+- !lcsh 'Black Hawk, Sauk chief, 1767-1838'
+- GITenberg
+title: Autobiography of Ma-ka-tai-me-she-kia-kiak, or Black Hawk
+url: http://www.gutenberg.org/ebooks/7097
